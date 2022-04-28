@@ -7,6 +7,7 @@ public class NewTest {
 @Test
 public void Hi()
 {
+	System.getProperty("sanjay");
 	System.out.println("Hi guys");
 }
 
