@@ -19,6 +19,7 @@ public void Hello()
 
 	System.out.println("Good morning");
 	System.out.println("Good night");
+	System.out.println("Good afternoon");
 
 }
 }
