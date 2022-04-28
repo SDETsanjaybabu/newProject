@@ -15,5 +15,6 @@ public void Hi()
 public void Hello()
 {
 	System.out.println("Hello guys");
+	System.out.println("Bye");
 }
 }
