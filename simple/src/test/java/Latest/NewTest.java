@@ -16,6 +16,9 @@ public void Hello()
 {
 	System.out.println("Hello guys");
 	System.out.println("Bye");
+
 	System.out.println("Good morning");
+	System.out.println("Good night");
+
 }
 }
