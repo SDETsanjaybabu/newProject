@@ -4,12 +4,6 @@ import org.testng.annotations.Test;
 
 public class NewTest {
 	
-@Test
-public void Hi()
-{
-	String sanju=System.getProperty("sanjay");
-	System.out.println(sanju);
-}
 
 
 @Test
